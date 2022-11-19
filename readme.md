@@ -6,8 +6,8 @@ Este repositório foi criado para armazenar meu estudo sobre os princípios de a
 
 ## 📦 Como rodar o ambiente:
 
-1- Acesse a pasta do projeto referente ao que você quer testar.
-2- Builda imagem utilizando o comando abaixo
+* Acesse a pasta do projeto referente ao que você quer testar.
+* Builda imagem utilizando o comando abaixo
 
 ```bash
 
@@ -15,7 +15,7 @@ Este repositório foi criado para armazenar meu estudo sobre os princípios de a
 
 ```
 
-3 - Rode o ambiente utilizando o comando abaixo:
+* Rode o ambiente utilizando o comando abaixo:
 
 ```bash
 
