@@ -1,0 +1,16 @@
+{
+    "name": "w2l/dip",
+    "description": "Aprendendo a letra D do SOLID",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "W2l\\Dip\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "w2l"
+        }
+    ],
+    "require": {}
+}

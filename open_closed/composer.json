@@ -1,0 +1,16 @@
+{
+    "name": "w2l/ocp",
+    "description": "Principio Open closed do Solid",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "W2l\\Ocp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "w2l"
+        }
+    ],
+    "require": {}
+}

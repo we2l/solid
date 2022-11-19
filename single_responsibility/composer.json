@@ -1,0 +1,16 @@
+{
+    "name": "w2l/srp",
+    "description": "Dominando a letra S do Solid",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "W2l\\Srp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "w2l"
+        }
+    ],
+    "require": {}
+}

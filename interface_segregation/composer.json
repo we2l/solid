@@ -1,0 +1,15 @@
+{
+    "name": "w2l/isp",
+    "description": "Treinando a letra I do SOLID",
+    "autoload": {
+        "psr-4": {
+            "W2l\\Isp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "w2l"
+        }
+    ],
+    "require": {}
+}

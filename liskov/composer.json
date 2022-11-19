@@ -1,0 +1,16 @@
+{
+    "name": "w2l/liskov",
+    "description": "Aprendendo letra L do SOLID",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "W2l\\Liskov\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "w2l"
+        }
+    ],
+    "require": {}
+}
